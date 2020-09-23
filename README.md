@@ -2,4 +2,4 @@
 
 # Click on the image panel to see the Effect.
 
-https://varunsardana004.github.io/Image-Flex-Panels/
+<a href="https://varunsardana004.github.io/Image-Flex-Panels/">Image Flex Panel</a>
